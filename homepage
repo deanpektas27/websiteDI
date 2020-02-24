@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class = "header" style= "height: 50px; 
+    background: #297FB8; color:white;">
+
+    <div class = "container" style= "display: flex;
+    flex-direction: row; align-items: center;  justify-content: space-around; height: 50px; ">
+        <div class = "logo" style= "font-family: fantasy; font-size: 25px;">Corporate CLEAN</div>
+        <div class = "right-links" style= "display: flex; flex-direction: row;">
+            <div class = "link" style = "margin-left: 20px; margin-right: 20px;">Home</div>
+            <div class = "link" style = "margin-left: 20px; margin-right: 20px;">About Us</div>
+            <div class = "link" style = "margin-left: 20px; margin-right: 20px;">Services</div>
+            <div class = "link" style = "margin-left: 20px; margin-right: 20px;">FAQs</div>
+            <div class = "link" style = "margin-left: 20px; margin-right: 20px;">Contact Us</div>
+        </div>
+    </div>
+
+    <div class = "section1">
+        <style>
+            body{
+                background-image: url('https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?cs=srgb&dl=air-air-pollution-chimney-clouds-459728.jpg&fm=jpg');
+                background-size: cover;
+            }
+        </style>
+    </div>
+    <div class = "section2"> 
+        
+    </div>
+    <div class = "section3">
+
+    </div>
+</body>
